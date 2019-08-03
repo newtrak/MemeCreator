@@ -1,0 +1,28 @@
+{
+  "name": "memecreator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newtrak/MemeCreator.git"
+  },
+  "keywords": [
+    "meme"
+  ],
+  "author": "Travis Newman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/newtrak/MemeCreator/issues"
+  },
+  "homepage": "https://github.com/newtrak/MemeCreator#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es": "^1.0.0",
+    "concurrently": "^4.1.1",
+    "http-server": "^0.11.1"
+  }
+}
